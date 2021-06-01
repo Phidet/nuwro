@@ -1,0 +1,10 @@
+#MicroBooNE geometry - full geometry
+target_type=2
+geo_file=target/MicroBooNEGeometry_Full.root
+geo_name=MicroBooNEGeometry
+geo_o = 100 -50 500
+geo_d = 2200 2050 2400 // half dimension of the box: dx dy dx
+
+geom_length_units=cm
+
+nucleus_target=2

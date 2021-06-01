@@ -1,4 +1,4 @@
-#MicroBooNE geometry
+#MicroBooNE geometry - cryostat only
 target_type=2
 geo_file=target/MicroBooNEGeometry.root
 geo_name=MicroBooNEGeometry
