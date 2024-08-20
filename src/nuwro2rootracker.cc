@@ -22,6 +22,7 @@
 #include "TBits.h"
 #include "pdg.h"
 #include "generatormt.h"
+#include "TObjString.h"
 
 bool FileExists(string strFilename) {
   struct stat stFileInfo;
